@@ -1,4 +1,5 @@
 Image Fetcher
+
 A Python script that downloads images from URLs and saves them to organized directories.
 
 Features
